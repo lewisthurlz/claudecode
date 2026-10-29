@@ -20,6 +20,9 @@ Ambitious, self-sufficient marathoners who want support and guidance so they can
 - **Google Meet:** consult calls.
 - **Skill:** `goal-roadmap`, which builds the A-to-B race roadmap for a consult call.
 
+## Plans
+- `growth-plan-20-athletes.md` is the draft plan to go from 13 to 20 athletes (29 Oct 2026), awaiting Lewis's decisions.
+
 ## Decisions and current state
 - 2 athletes signed to start in November 2026.
 - (Add dated entries here.)
