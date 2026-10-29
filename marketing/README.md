@@ -17,6 +17,7 @@ Instagram, Squarespace (website), DaVinci Resolve Studio (editing), Canva, and N
 
 ## Files
 - `instagram-creative-brief.md` is Lewis's creative brief, and you must read it before making anything for Instagram. Its tool paths (`~/Downloads/...`) are on Lewis's Mac, not in this folder.
+- `reel-formats-research-2026-10-29.md` is research on the top marathon reel formats and the 2025–26 algorithm, with three recommended trials.
 - In Notion: "Instagram Growth & Coaching Funnel — 2026", "Instagram content plan — Threshold + race-distance methodology", Proof Bank, and "Offer + landing page copy (v1)".
 
 ## Decisions and current state
